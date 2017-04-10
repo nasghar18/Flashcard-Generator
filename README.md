@@ -1,1 +1,1 @@
-# Flashcard-Generator
+A special app that generates flashcards, both basic and cloze deleted cards.
